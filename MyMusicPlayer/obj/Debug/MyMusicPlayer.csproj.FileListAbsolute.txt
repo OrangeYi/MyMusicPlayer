@@ -1,0 +1,15 @@
+D:\vs projecs\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe.config
+D:\vs projecs\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe
+D:\vs projecs\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.pdb
+D:\vs projecs\MyMusicPlayer\MyMusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\vs projecs\MyMusicPlayer\MyMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\vs projecs\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csprojAssemblyReference.cache
+D:\vs projecs\MyMusicPlayer\MyMusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\vs projecs\MyMusicPlayer\MyMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\vs projecs\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.ResolveComReference.cache
+D:\vs projecs\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Form1.resources
+D:\vs projecs\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Properties.Resources.resources
+D:\vs projecs\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.GenerateResource.cache
+D:\vs projecs\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.CoreCompileInputs.cache
+D:\vs projecs\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.exe
+D:\vs projecs\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.pdb
